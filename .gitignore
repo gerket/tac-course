@@ -1,3 +1,6 @@
 .vscode/
 .git-push.sh
 
+.idea/
+.python-version
+.terraform/
